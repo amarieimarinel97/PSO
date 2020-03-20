@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86b8061e-cb6d-4335-9628-762437734764" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UWS5LfmBjNjGpBNLH80E74740R" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application.Application" />
+      <module name="PSO-AI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="PSO-AI" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Application.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86b8061e-cb6d-4335-9628-762437734764" name="Default Changelist" comment="" />
+      <created>1575470674549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575470674549</updated>
+      <workItem from="1575470679442" duration="1869000" />
+      <workItem from="1575555498456" duration="5259000" />
+      <workItem from="1575561527107" duration="8911000" />
+      <workItem from="1575572192030" duration="117000" />
+      <workItem from="1575635475094" duration="310000" />
+      <workItem from="1575635808642" duration="114000" />
+      <workItem from="1575635948056" duration="3106000" />
+      <workItem from="1575645335926" duration="2160000" />
+      <workItem from="1575656190529" duration="5402000" />
+      <workItem from="1575666125864" duration="621000" />
+      <workItem from="1575802052864" duration="10498000" />
+      <workItem from="1575892972268" duration="3749000" />
+      <workItem from="1575897882957" duration="1183000" />
+      <workItem from="1575905469437" duration="86000" />
+      <workItem from="1575979578723" duration="1867000" />
+      <workItem from="1576082792576" duration="9423000" />
+      <workItem from="1576150043145" duration="4972000" />
+      <workItem from="1576247560731" duration="8394000" />
+      <workItem from="1576584345202" duration="1316000" />
+      <workItem from="1578941796672" duration="419000" />
+      <workItem from="1579003245089" duration="1782000" />
+      <workItem from="1579005358624" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
